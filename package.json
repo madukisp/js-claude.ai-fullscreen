@@ -1,0 +1,16 @@
+{
+  "name": "claude_full_screen",
+  "version": "1.0.0",
+  "main": "main-js.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "electron": "^32.1.0"
+  }
+}
